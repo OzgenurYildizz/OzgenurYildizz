@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Flutter& Dart**
 
-- 📫 How to reach me **ozgenur121212@hotmial.com**
+- 📫 How to reach me **yildiz.ozgenur@hotmial.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

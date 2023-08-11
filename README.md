@@ -9,7 +9,7 @@
 
 - 👀 I’m interested in Front-End Devolopment
 
-- 🌱 I’m currently learning **Flutter& Dart**
+- 🌱 I’m currently learning **Next.js & React**
 
 - 📫 How to reach me **yildiz.ozgenur@hotmial.com**
 

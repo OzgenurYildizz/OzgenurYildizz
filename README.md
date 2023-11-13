@@ -9,7 +9,7 @@
 
 - 👀 I’m interested in Front-End Devolopment
 
-- 🌱 I’m currently learning **Next.js & React**
+- 🌱 I’m currently learning **Typescript**
 
 - 📫 How to reach me **yildiz.ozgenur@hotmail.com**
 
